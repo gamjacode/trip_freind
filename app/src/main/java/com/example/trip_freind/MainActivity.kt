@@ -1,5 +1,6 @@
 package com.example.trip_freind
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
@@ -8,9 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //first comment
-        //second comment
-        //third comment
-
+        val intent = Intent(this,MainActivity2::class.java)
+        startActivity(intent)
     }
 }

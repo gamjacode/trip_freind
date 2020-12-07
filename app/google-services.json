@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598327108092",
+    "project_id": "tripfriend-9e480",
+    "storage_bucket": "tripfriend-9e480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598327108092:android:e36a617d9cc7af9c635279",
+        "android_client_info": {
+          "package_name": "com.example.trip_freind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598327108092-m1jeispsju1q5stibjglb9qm7d3iv2f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJaLyk4nINJn9L3nRa8SCFvw3bWqiYiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598327108092-m1jeispsju1q5stibjglb9qm7d3iv2f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

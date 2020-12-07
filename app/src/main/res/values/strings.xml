@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TravelFriend</string>
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="password_check">비밀번호 확인</string>
+    <string name="name">이름</string>
+    <string name="phone_number">전화번호</string>
+    <string name="age">나이</string>
+    <string name="gender">성별</string>
+    <string name="nickname">별명</string>
+    <string name="male">남성</string>
+    <string name="female">여성</string>
+    <string name="next">다음</string>
+    <string name="done">완료</string>
+    <string name="login">로그인</string>
+    <string name="sign_up">회원가입</string>
+    <string name="comment">댓글</string>
+    <string name="submit">등록</string>
+    <string name="comment_button">신고</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
